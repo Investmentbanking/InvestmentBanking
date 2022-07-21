@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=EE35F7&background=1849FF00&lines=Hello+there+my+name+is+Ariana+%F0%9F%A4%A0;I+am+currently+working+on+some+cool+projects!)](https://git.io/typing-svg)
 <!--
 **Investmentbanking/InvestmentBanking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
