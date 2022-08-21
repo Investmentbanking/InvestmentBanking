@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=EE35F7&background=1849FF00&lines=Hello+there+my+name+is+Ariana+%F0%9F%A4%A0;I+am+currently+working+on+some+cool+projects!)](https://git.io/typing-svg)
-- 🔭 I’m currently working on a new game using Java and creating my own website
-- 🌱 I’m currently learning C++, django, networking, MongoDB, Node, React, Scala and Artifical Intelligence (quite a bit haha I know)
-- 📫 How to reach me: feel free to contact me on discord Lime#6304 for any questions :)
+- 🔭 I’m currently working on a new game using Java and creating my own website 
+- 🌱 I’m currently learning about C++, django, networking, MongoDB, Node, React, Scala and Artifical Intelligence (quite a bit haha I know!)
+- 📫 feel free to contact me on discord `Lime#6304` for any questions :)
 - 😄 Pronouns: she/her
 <!--
 **Investmentbanking/InvestmentBanking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
