@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=EE35F7&background=1849FF00&lines=Hello+there+my+name+is+Ariana+%F0%9F%A4%A0;I+am+currently+working+on+some+cool+projects!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on a new game using [**Java Swing**](https://github.com/Investmentbanking/BreakoutGame) and creating my own [**website**](https://github.com/Investmentbanking/InvestmentBanking.github.io) 
-- 🌱 I’m currently learning about C++, django, networking, MERN Stack, Scala and Artifical Intelligence 
+- 🌱 I’m currently learning about C++, django, networking, MERN Stack, Scala, Artifical Intelligence and AWS
 - 📫 feel free to contact me on discord `Lime#6304` for any questions :)
 - 😄 Pronouns: she/her
 
