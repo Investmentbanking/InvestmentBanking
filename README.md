@@ -1,7 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/41571606/185773744-809c7f22-667d-499c-bcb6-8d9995abd5bc.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=EE35F7&background=1849FF00&lines=Hello+there+my+name+is+Ariana+%F0%9F%A4%A0;I+am+currently+working+on+some+cool+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F5A6B&width=435&lines=Hi%2C+my+name+is+Ariana;Currently+working+on+some+projects)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on a new game using [**Java Swing**](https://github.com/Investmentbanking/BreakoutGame) and creating my own [**website**](https://github.com/Investmentbanking/InvestmentBanking.github.io) 
 - 🌱 I’m currently learning about C++, django, networking, MERN Stack, Scala, Artifical Intelligence and AWS
 - 📫 feel free to contact me on discord `Lime#6304` for any questions :)
